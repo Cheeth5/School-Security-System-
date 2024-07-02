@@ -8,4 +8,4 @@ this is the login page :
 
 and this is the page of the detected students :
 
-![Screenshot from 2024-07-02 20-07-39](https://github.com/Cheeth5/School-Security-System-/assets/117034442/253aa786-5aac-45e7-a31e-6a97876ec40f)
+![Screenshot from 2024-07-02 20-10-51](https://github.com/Cheeth5/School-Security-System-/assets/117034442/f5564eae-3f5d-40fe-be51-b0151c6710b8)

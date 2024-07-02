@@ -1,3 +1,7 @@
+![WhatsApp_Image_2024-04-19_at_21 54 01-removebg-preview](https://github.com/Cheeth5/School-Security-System-/assets/117034442/b175684b-c026-4482-a462-f1b554381397)
+
+
+
 # School-Security-System-
 School Security System (3S)
 
